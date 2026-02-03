@@ -2,8 +2,6 @@
 <h3 align="center">Building applied ML and full‑stack systems — Pune, IN</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okayniti" alt="okayniti" /></a> </p>
-
 - 🌱 I’m currently learning **LLM‑powered assistants and retrieval, advanced PyTorch tooling, and scalable MLOps on GCP. Production‑grade React + Node patterns and accessibility for performant UIs.**
 
 - 👯 I’m looking to collaborate on [collaborate on Applied ML for security (browser safety, phishing/URL intel)](https://github.com/okayniti)
