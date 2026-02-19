@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niti</h1>
-<h3 align="center">Building applied ML and full‑stack systems — Pune, IN</h3>
+<h3 align="center">Blending AI & ML with Full-Stack Dev to build systems that actually work — Pune, IN</h3>
 
 
 - 🌱 I’m currently learning **LLM‑powered assistants and retrieval, advanced PyTorch tooling, and scalable MLOps on GCP. Production‑grade React + Node patterns and accessibility for performant UIs.**
