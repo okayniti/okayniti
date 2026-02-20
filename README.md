@@ -1,9 +1,9 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Niti
 =============================================================================================================================
 
 I blend AI & Machine Learning with Full-Stack Development to build systems that actually work
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 * 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-niti-kanoongo.vercel.app/)
