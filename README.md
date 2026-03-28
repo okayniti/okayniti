@@ -78,8 +78,6 @@ niti = {
 
 ---
 
-## 🕹️ Pac-Man eating my contributions
-
 ![Pacman](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ---
