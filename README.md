@@ -1,28 +1,171 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=180&section=header&text=Niti%20Gupta&fontSize=52&fontColor=fff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20MLSA&descAlignY=58&descSize=18&animation=twinkling"/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Niti
-=============================================================================================================================
+<div align="center">
 
-I blend AI & Machine Learning with Full-Stack Development to build systems that actually work
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal+%E2%80%A2+2028;ML+Engineer+%7C+NLP+%7C+Computer+Vision+%7C+RL;900%2B+problems+solved+%7C+LeetCode+%26+CodeChef;Microsoft+Learn+Student+Ambassador+(MLSA);30%2B+MUNs+as+Chairperson+%2F+Executive+Board)](https://git.io/typing-svg)
 
-* 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio-niti-kanoongo.vercel.app/)
-* ✉️  You can contact me at [niti.kanoongo3@gmail.com](mailto:niti.kanoongo3@gmail.com)
-* 🧠  I'm currently learning Deep Learning and RAG
-* 👥  I'm looking to collaborate on AI ML projects and website development
-* 💬  Ask me about I'm hungry all the time
+</div>
+
+---
+
+## ⚡ Quick Brief
+
+```
+📍 VIT Bhopal, MP   |   Reg: 23BAI10955   |   Expected Grad: 2028
+🎯 Focus: ML Systems · NLP · Computer Vision · Reinforcement Learning · IoT
+🏅 MLSA  |  Edtech Lead @ Aspirant Learning  |  CP: 900+ problems
+🧭 Long game: Build things that matter. Ship fast. Learn faster.
+```
+
+I don't just study AI — I build with it. My projects span precision agriculture,
+air quality prediction, IoT fault detection, and emotion recognition from voice.
+I care deeply about systems that work in the real world, not just on paper.
+
+---
+
+## 🔬 What I've Actually Built
+
+<table>
+<tr>
+<td width="50%">
+
+**🌾 Precision Agriculture ML Pipeline**
+- Crop recommendation + fertilizer prediction
+- Plant disease classification with **MobileNetV2**
+- End-to-end: data → model → deployment-ready
+- Role: ML / Predictive Modeling Engineer
+
+</td>
+<td width="50%">
+
+**🌫️ Delhi AQI Predictor**
+- Supervised learning with baseline benchmarking
+- Final model: **R² = 0.93**
+- Comparative analysis across regressors
+- Role: ML / Predictive Modeling Engineer
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📡 IoT Predictive Maintenance Dashboard**
+- Remote equipment monitoring via **Raspberry Pi + Firebase**
+- Hybrid **LSTM + SARIMA** fault prediction model
+- Real-time React dashboard
+- Dataset: IoT Equipment Fault Prediction (Kaggle)
+
+</td>
+<td width="50%">
+
+**🎙️ Voice Emotion Detection (ANN)**
+- Audio feature extraction with Librosa
+- ANN-based multi-class emotion classifier
+- Extended independently from group project
+- Stack: Python · Keras · Librosa
+
+</td>
+</tr>
+</table>
+
+> 🔗 Explore all projects → **[github.com/okayniti](https://github.com/okayniti)**
+
+---
+
+## 🧠 NitiGPT — My AI-Powered Portfolio
+
+> *A recruiter shouldn't have to guess what I can do. So I'm building an AI that tells them.*
+
+**NitiGPT** is an AI-powered portfolio assistant — context-aware, recruiter-friendly, and built with personality. It maps questions like *"Can she work with unstructured data?"* directly to projects, stack choices, and real outcomes.
+
+Think of this README as `v0.1`. The full product is coming.
+
+**Stack:** React · Anthropic API · Tailwind · FastAPI
+
+---
+
+## 🛠️ Tech I Actually Use
+
+**ML / AI**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Web & Cloud**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**DSA / CP**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=okayniti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayniti&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okayniti&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🏛️ Leadership & Impact
+
+| What | Where | Scale |
+|------|-------|-------|
+| 🎓 Trainer Coord · PR Lead · Curriculum Design | Aspirant Learning (Edtech) | School outreach: MP + Maharashtra |
+| 🗣️ Chairperson / Executive Board | Model United Nations | **30+ conferences** |
+| 🤝 Microsoft Learn Student Ambassador | MLSA — VIT Bhopal | Campus + community events |
+| 🎯 Event Management Lead | TechEscape · Cisco Community Club | 23-member team |
+| 🌐 Open Source | GirlScript SoC 2024 · Hacktoberfest 2025 | Contributed across ML + web repos |
+
+---
+
+## 🌐 Find Me
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+<a href="https://www.linkedin.com/in/niti-kanoongo" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-niti--kanoongo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:niti.kanoongo3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-niti.kanoongo3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="http://portfolio-niti-kanoongo.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/okayniti" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-okayniti-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/okayniti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/niti-kanoongo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<div align="center">
 
-<b>My GitHub Stats</b>
+*"I didn't come this far to only come this far."*
 
-<a href="http://www.github.com/okayniti"><img src="https://github-readme-stats.vercel.app/api?username=okayniti&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="okayniti's GitHub stats" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=100&section=footer"/>
 
-<a href="http://www.github.com/okayniti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okayniti&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
