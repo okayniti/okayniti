@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=140&section=header&text=Niti%20Kanoongo&fontSize=46&fontColor=fff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20MLSA%20%E2%80%A2%20Builder&descAlignY=62&descSize=16&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=140&section=header&text=Niti%20Kanoongo&fontSize=46&fontColor=fff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20MLSA%20%E2%80%A2%20Software&BuilderL&descAlignY=62&descSize=16&animation=twinkling"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00D4FF&center=true&vCenter=true&width=580&lines=B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal+%E2%80%A2+2028;Building+ML+systems+that+work+in+the+real+world;900%2B+problems+%7C+LeetCode+%26+CodeChef+%7C+C%2B%2B;30%2B+MUNs+as+Chairperson+%2F+Executive+Board)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00D4FF&center=true&vCenter=true&width=580&lines=B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal+%E2%80%A2+2027;Building+ML+systems+that+work+in+the+real+world;900%2B+problems+%7C+LeetCode+%26+CodeChef+%7C+C%2B%2B;30%2B+MUNs+as+Chairperson+%2F+Executive+Board)](https://git.io/typing-svg)
 
 </div>
 
