@@ -19,39 +19,67 @@ niti = {
 
 ---
 
-## 🔬 Projects  &nbsp;|&nbsp; 📡 Stack  &nbsp;|&nbsp; 📊 Stats
+## 🔬 Projects  &nbsp;|&nbsp; 📡 Stack  &nbsp;|&nbsp; 📊 Impact
 
 <table>
 <tr>
 <td valign="top" width="48%">
 
-**🌾 Precision Agriculture Pipeline** — MobileNetV2 disease classification, crop + fertilizer prediction
+### 🌾 Precision Agriculture System  
+MobileNetV2-based disease detection + ML-driven crop & fertilizer recommendation  
+🔗 `precision-agriculture-using-machine-learning`
 
-**🌫️ Delhi AQI Predictor** — Supervised ML, R² = 0.93
+### 🌫️ AQI Prediction System  
+Supervised ML model for air quality prediction (R² ≈ 0.93)  
+🔗 `Delhi AQI / ML project`
 
-**📡 IoT Predictive Maintenance** — Raspberry Pi + Firebase + LSTM+SARIMA, live dashboard
+### 📡 IoT Predictive Maintenance  
+Raspberry Pi + Firebase + hybrid LSTM-SARIMA model with live dashboard  
+🔗 `Remote-Equipment-Monitoring-Dashboard`
 
-**🎙️ Voice Emotion ANN** — Librosa + Keras, multi-class emotion from audio
+### 🎙️ VocaSense — Voice Emotion AI  
+ANN-based speech emotion detection using Librosa + Keras  
+🔗 `VocaSense-Kids`
 
-**🤖 NitiGPT** — AI-powered recruiter-facing portfolio *(in progress)*
+### ☁️ Image Upload System  
+FastAPI backend with AWS S3 integration for secure file storage  
+🔗 `Image-Upload-Application`
+
+### 🧠 BlendSense  
+ML model predicting 10 fuel blend properties from chemical composition  
+🔗 `BlendSense`
 
 </td>
 <td valign="top" width="52%">
 
+### 📡 Stack
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Librosa](https://img.shields.io/badge/Librosa-Audio-blue?style=flat-square)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 Impact
+
+- Built **end-to-end ML systems** (data → model → deployment)  
+- Combined **AI + backend + cloud + IoT**  
+- Worked on **real-world datasets** (agriculture, environment, industrial IoT)  
+- Developed **production-style APIs (FastAPI + AWS)**  
+- Focused on **systems that solve actual problems, not just demos**  
 
 <br/>
 
