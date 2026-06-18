@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=140&section=header&text=Niti%20Kanoongo&fontSize=46&fontColor=fff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20MLSA%20%E2%80%A2%20Software&BuilderL&descAlignY=62&descSize=16&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=140&section=header&text=Niti%20Kanoongo&fontSize=46&fontColor=fff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20MLSA%20%E2%80%A2%20Software%20Builder&descAlignY=62&descSize=16&animation=twinkling"/>
 
 <div align="center">
 
@@ -11,8 +11,8 @@
 ```python
 niti = {
   "focus"  : ["Deep Learning", "NLP", "Computer Vision", "RL", "IoT"],
-  "shipped": ["AQI Predictor (R²=0.93)", "Precision Agriculture ML", "IoT Fault Dashboard"],
-  "now"    : "Hybrid LSTM+SARIMA · MobileNetV2 · NitiGPT (AI portfolio)",
+  "shipped": ["Aurora (AI Productivity Dashboard)", "Bone Fracture Classification (AUC 0.86)", "Production Website (40K+ students)"],
+  "now"    : "AI/ML Intern @ CovisionAI · LSTM · ResNet18 · NitiGPT (AI portfolio)",
   "motto"  : "Ship fast. Learn faster. Build things that matter."
 }
 ```
@@ -25,29 +25,29 @@ niti = {
 <tr>
 <td valign="top" width="48%">
 
-### 🌾 Precision Agriculture System  
+### 🧠 Aurora — AI Productivity Dashboard
+LSTM + XGBoost + Reinforcement Learning to predict energy, detect burnout, and optimize task scheduling  
+🔗 `Aurora`
+
+### 🦴 Bone Fracture Classification
+ResNet18 + MONAI pipeline classifying 10 fracture types from X-rays; validation AUC 0.86  
+🔗 `Bone-Fracture-Classification`
+
+### 🌾 Precision Agriculture System
 MobileNetV2-based disease detection + ML-driven crop & fertilizer recommendation  
 🔗 `precision-agriculture-using-machine-learning`
 
-### 🌫️ AQI Prediction System  
+### 🌫️ AQI Prediction System
 Supervised ML model for air quality prediction (R² ≈ 0.93)  
 🔗 `Delhi AQI / ML project`
 
-### 📡 IoT Predictive Maintenance  
-Raspberry Pi + Firebase + hybrid LSTM-SARIMA model with live dashboard  
-🔗 `Remote-Equipment-Monitoring-Dashboard`
-
-### 🎙️ VocaSense — Voice Emotion AI  
+### 🎙️ VocaSense — Voice Emotion AI
 ANN-based speech emotion detection using Librosa + Keras  
 🔗 `VocaSense-Kids`
 
-### ☁️ Image Upload System  
+### ☁️ Image Upload System
 FastAPI backend with AWS S3 integration for secure file storage  
 🔗 `Image-Upload-Application`
-
-### 🧠 BlendSense  
-ML model predicting 10 fuel blend properties from chemical composition  
-🔗 `BlendSense`
 
 </td>
 <td valign="top" width="52%">
@@ -56,17 +56,20 @@ ML model predicting 10 fuel blend properties from chemical composition
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-Audio-blue?style=flat-square)
+![MONAI](https://img.shields.io/badge/MONAI-Medical%20AI-blue?style=flat-square)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/RPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
@@ -77,8 +80,8 @@ ML model predicting 10 fuel blend properties from chemical composition
 
 - Built **end-to-end ML systems** (data → model → deployment)  
 - Combined **AI + backend + cloud + IoT**  
-- Worked on **real-world datasets** (agriculture, environment, industrial IoT)  
-- Developed **production-style APIs (FastAPI + AWS)**  
+- Worked on **real-world datasets** (healthcare, agriculture, environment)  
+- Developed **production-style APIs (Next.js 14 + FastAPI + PostgreSQL)**  
 - Focused on **systems that solve actual problems, not just demos**  
 
 <br/>
@@ -96,7 +99,7 @@ ML model predicting 10 fuel blend properties from chemical composition
 
 ## 🏅 Beyond Code
 
-`MLSA` · `Edtech Lead @ Aspirant Learning` · `30+ MUNs as Chairperson/EB` · `GirlScript SoC 2024` · `Hacktoberfest 2025` · `TechEscape Event Lead (23 members)`
+`MLSA` · `AI/ML Intern @ CovisionAI` · `Secretary General – Cisco Community VITB` · `Website Dev @ Aspirant India Initiative` · `30+ MUNs as Chairperson/EB` · `GirlScript SoC 2024` · `Hacktoberfest 2025` · `TechEscape Event Lead (23 members)` · `TCS CodeVita 2026 Global Rank 8700` · `Dynamic Hackathon i4c Finalist (Top 400)`
 
 ---
 
