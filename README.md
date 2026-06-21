@@ -41,7 +41,7 @@ MobileNetV2-based disease detection + ML-driven crop & fertilizer recommendation
 Supervised ML model for air quality prediction (R² ≈ 0.93)  
 🔗 `Delhi AQI / ML project`
 
-### 🎙️ VocaSense — Voice Emotion AI
+### 🎙️ VocaSense — Voice Emotion AI System
 ANN-based speech emotion detection using Librosa + Keras  
 🔗 `VocaSense-Kids`
 
