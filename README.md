@@ -11,7 +11,7 @@
 ```python
 niti = {
   "focus"  : ["Deep Learning", "NLP", "Computer Vision", "RL", "IoT"],
-  "shipped": ["Aurora (AI Productivity Dashboard)", "Bone Fracture Classification (AUC 0.86)", "Production Website (40K+ students)"],
+  "shipped": ["Aurora (AI Productivity Dashboard)", "Bone Fracture Classification (AUC 0.86)", "Production Website Aspirant India(40K+ students)"],
   "now"    : "AI/ML Intern @ CovisionAI · LSTM · ResNet18 · NitiGPT (AI portfolio)",
   "motto"  : "Ship fast. Learn faster. Build things that matter."
 }
