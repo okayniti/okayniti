@@ -106,6 +106,23 @@ FastAPI backend with AWS S3 integration for secure file storage
 
 <br/>
 
+---
+
+## ⚡ Competitive Programming
+
+<div align="center">
+
+🏆 **900+ Problems Solved**
+
+| Platform | Achievement |
+|----------|-------------|
+| 💛 LeetCode | 1415 Rating |
+| 🤎 CodeChef | 1060 Max Rating |
+| 💙 Codeforces | Active Competitive Programmer |
+| 🚀 TCS CodeVita 2026 | Global Rank **8700** |
+
+</div>
+
 <div align="center">
 <img height="130" src="https://github-readme-stats.vercel.app/api?username=okayniti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true"/>
 <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=okayniti&theme=tokyonight&hide_border=true"/>
