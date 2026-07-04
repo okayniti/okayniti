@@ -20,7 +20,13 @@ niti = {
   "motto"  : "Ship fast. Learn faster. Build things that matter."
 }
 ```
+## 🚀 Currently Building
 
+- 🧠 **Aurora v2** — AI productivity platform with LSTM, Reinforcement Learning & explainable ML
+- 🤖 **NitiGPT** — Context-aware AI portfolio assistant for recruiters and collaborators
+- 🚨 **SangamDrishti** — Real-time emergency command & control system with AI-assisted decision support
+- 🎥 **LLM & Video Model Evaluation** — Benchmarking frontier generative AI models for quality, latency, and reliability
+- 📚 **Preparing for GSoC, Research & AI Engineering roles**
 ---
 
 ## 🔬 Projects  &nbsp;|&nbsp; 📡 Stack  &nbsp;|&nbsp; 📊 Impact
