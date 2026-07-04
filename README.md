@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00D4FF&center=true&vCenter=true&width=580&lines=B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal+%E2%80%A2+2027;Building+ML+systems+that+work+in+the+real+world;900%2B+problems+%7C+LeetCode+%26+CodeChef+%7C+C%2B%2B;30%2B+MUNs+as+Chairperson+%2F+Executive+Board)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=okayniti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 </div>
 
 ---
