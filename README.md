@@ -103,7 +103,7 @@ FastAPI backend with AWS S3 integration for secure file storage
 
 ## 🏅 Beyond Code
 
-`MLSA` · `AI/ML Intern @ CovisionAI` · `Secretary General – Cisco Community VITB` · `Website Dev @ Aspirant India Initiative` · `30+ MUNs as Chairperson/EB` · `GirlScript SoC 2024` · `Hacktoberfest 2025` · `TechEscape Event Lead (23 members)` · `TCS CodeVita 2026 Global Rank 8700` · `Dynamic Hackathon i4c Finalist (Top 400)`
+`Amazon ML Summer School 2026 (Selected)` · `AI/ML Intern @ CovisionAI` · `Microsoft Learn Student Ambassador` · `Secretary General – Cisco Community VITB` · `Website Developer @ Aspirant India Initiative` · `30+ MUNs as Chairperson / Executive Board` · `GirlScript Summer of Code 2024` · `Hacktoberfest 2025` · `TechEscape Event Lead (23 Members)` · `TCS CodeVita 2026 Global Rank 8700` · `Dynamic Hackathon i4c Finalist (Top 400 Nationally)` · `AWS Certified Solutions Architect – Associate`
 
 ---
 
