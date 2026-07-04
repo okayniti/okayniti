@@ -140,6 +140,40 @@ FastAPI backend with AWS S3 integration for secure file storage
 
 ---
 
+GitHub Stats
+
+🤖 AI Journey
+
+2023 ── Started B.Tech
+ │
+2024 ── Open Source
+ │
+2025 ── Production Projects
+ │
+2026 ── CovisionAI
+ │     Amazon ML Summer School
+ │     Aurora
+ │
+2027 ── AI Engineer 🚀
+
+---
+
+## 🏆 Certifications & Programs
+
+<p align="center">
+
+🏅 **AWS Certified Solutions Architect – Associate**<br/>
+🧠 **Amazon ML Summer School 2026 (Selected)**<br/>
+☁️ **Oracle Cloud Infrastructure AI Foundations**<br/>
+🎓 **Applied Machine Learning in Python — University of Michigan**<br/>
+🌍 **Microsoft Learn Student Ambassador**
+
+</p>
+
+---
+
+🏅 Beyond Code
+
 ## 💬 Today's Thought
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
