@@ -172,8 +172,6 @@ GitHub Stats
 
 ---
 
-🏅 Beyond Code
-
 ## 💬 Today's Thought
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
