@@ -64,6 +64,16 @@ FastAPI backend with AWS S3 integration for secure file storage
 
 ### 📡 Stack
 
+### 🛠️ Featured Technologies
+
+| AI & ML | Backend | Frontend | Cloud & DevOps |
+|---------|----------|----------|----------------|
+| PyTorch | FastAPI | Next.js | AWS |
+| TensorFlow | Node.js | React | Docker |
+| Scikit-learn | Express.js | JavaScript | PostgreSQL |
+| XGBoost | REST APIs | HTML/CSS | Firebase |
+| OpenCV | WebSockets | TypeScript | Git |
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
