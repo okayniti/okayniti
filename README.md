@@ -138,7 +138,7 @@ MobileNetV2-based disease detection + ML-driven crop & fertilizer recommendation
 
 ## 🏅 Beyond Code
 
-`AI/ML Intern @ CovisionAI` · `AWS Certified Solutions Architect – Associate` · `Amazon ML Summer School 2026 (Selected)` · `Secretary General – Cisco Community VITB` · `Freelance Web Developer (Bhopal & Indore)` · `Amex CodeStreet 2026 — AegisAgent` · `Honeywell Hackathon — The Watchtower` · `Microsoft Learn Student Ambassador` · `30+ MUNs as Chairperson / Executive Board` · `Dynamic Hackathon i4c Finalist (Top 400 Nationally)` · `GirlScript Summer of Code 2024` · `Hacktoberfest 2025`
+`AI/ML Intern @ CovisionAI` · `AWS Certified Solutions Architect – Associate` · `Amazon ML Summer School 2026 (Selected)` · `Secretary General – Cisco Community VITB` · `Amex CodeStreet 2026 — AegisAgent` · `Honeywell Hackathon — The Watchtower` · `Microsoft Learn Student Ambassador` · `30+ MUNs as Chairperson / Executive Board` · `Dynamic Hackathon i4c Finalist (Top 400 Nationally)` · `GirlScript Summer of Code 2024` · `Hacktoberfest 2025`
 
 ---
 
@@ -168,7 +168,6 @@ MobileNetV2-based disease detection + ML-driven crop & fertilizer recommendation
 2026 ── AI/ML Intern @ CovisionAI
  │     Amazon ML Summer School — Selected
  │     AWS Certified Solutions Architect
- │     Freelance Web Dev — Bhopal & Indore
  │
 2027 ── Graduating · AI Engineer 🚀
 ```
