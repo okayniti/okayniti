@@ -28,11 +28,10 @@ niti = {
 
 ## 🚀 Currently Building
 
-- 🎥 **CovisionAI Video Generation Pipeline** — full-stack system (Next.js, FastAPI, PostgreSQL, Docker) with a Claude-powered prompt engine and an anti-hallucination validation layer enforcing structured tool calls
+- 🎥 **Video Generation Pipeline** — full-stack system (Next.js, FastAPI, PostgreSQL, Docker) with a Claude-powered prompt engine and an anti-hallucination validation layer enforcing structured tool calls
 - 🧠 **Aurora v2** — AI productivity platform with LSTM, Reinforcement Learning & explainable ML
 - 🛡️ **AegisAgent** — governance & kill-switch layer for autonomous financial agents (Amex CodeStreet 2026)
 - 🚨 **The Watchtower** — GRU + MLP based AI behavioral anomaly detection system (Honeywell Hackathon)
-- 💼 **Freelance Web Development** — designing & deploying production sites for cafes, boutiques, gyms, and salons across Bhopal & Indore (GitHub → Vercel workflow)
 
 ---
 
